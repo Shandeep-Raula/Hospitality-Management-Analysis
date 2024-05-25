@@ -16,3 +16,5 @@ Their revenue management team had decided to hire a 3rd party service provider t
 <a align="center"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/PostgreSQL.svg" alt="shandeep_2003" height="35" width="35" /></a>
 </p>
 
+<h2 >Data Model</h2>
+<a align="center"><img src="https://github.com/Shandeep-Raula/Hospitality-Management-Analysis/blob/main/data_model.png" alt="shandeep_2003" /></a>
